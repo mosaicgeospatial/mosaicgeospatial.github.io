@@ -9,7 +9,7 @@
 title: Mosaic Geospatial
 
 # Your name to show in the footer
-author: admin
+author: Mosaic Geospatial
 
 # --- List of links in the navigation bar --- #
 
@@ -98,7 +98,7 @@ keywords: "gnaf geocoder,spatial data,arcgis pro,admin boundaries shapefile"
 
 navbar-col: "#00AAE8"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: "#444444"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#2250E8"
