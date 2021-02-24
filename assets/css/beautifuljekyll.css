@@ -203,7 +203,7 @@ img {
 }
 
 .navbar-custom .navbar-toggler[aria-expanded="true"] {
-  background-color: rgba(0, 0, 0, 1);
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .dropdown-toggle::after {
@@ -237,12 +237,12 @@ img {
 
 @media (min-width: 1200px) {
   .navbar-custom .nav-item.dropdown:hover {
-    background: rgba(0, 0, 0, 0.1);
+    background: rgba(0, 0, 0, 0);
   }
 }
 
 .navbar-custom .nav-item.dropdown.show {
-  background: rgba(0, 0, 0, 1);
+  background: rgba(0, 0, 0, 0);
 }
 
 .navbar-custom .nav-item.dropdown .dropdown-menu {
@@ -291,7 +291,7 @@ img {
   }
 
   .navbar-custom .nav-item.dropdown.show {
-    background: rgba(0, 0, 0, 1);
+    background: rgba(0, 0, 0, 0);
   }
 
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
