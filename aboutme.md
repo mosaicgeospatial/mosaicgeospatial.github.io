@@ -2,6 +2,8 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+nav-short: true
+full-width: true
 ---
 
 My name is Inigo Montoya. I have the following qualities:
