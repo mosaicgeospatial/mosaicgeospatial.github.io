@@ -210,19 +210,40 @@ img {
   border-width: 0.4em;
 }
 
+@media only screen and (min-width: 768px) {
+  .navbar-custom {
+    padding: 20px 0;
+    -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+    transition: background .5s ease-in-out,padding .5s ease-in-out;
+  }
+
+  .navbar-custom.top-nav-short {
+    padding: 0;
+  }
+  
+  .navbar-custom.top-nav-short .navbar-brand-logo img {
+    height: 40px;
+  }
+
+  .navbar-custom.top-nav-short .navbar-brand-logo {
+	margin: 0;
+    padding-top: 5px;
+  }
+  .navbar-custom .navbar-brand-logo img {
+    height: 90px;
+  }
+  .navbar-custom .navbar-brand-logo {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: -20px;
+  }
+}
+
 @media (min-width: 1200px) {
   .navbar-custom {
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
-  }
-
-  .navbar-custom .navbar-brand-logo {
-    padding-top: 0;
-    padding-bottom: 0;
-  }
-
-  .navbar-custom .navbar-brand-logo img {
-    height: 3.125rem;
   }
 
   .navbar-expand-xl .navbar-nav .nav-link {
