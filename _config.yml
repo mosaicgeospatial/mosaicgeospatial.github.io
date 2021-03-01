@@ -15,7 +15,7 @@ author: Mosaic Geospatial
 
 navbar-links:
   Home: "/"
-  Products:
+  "Products                    ":
     - GNAF File Geodatabase and Shapefiles: "gnaf_fgdb_shapefile"
     - GNAF Locator for ArcGIS Pro & Enterprise: "gnaf_locator"
   News: "news"

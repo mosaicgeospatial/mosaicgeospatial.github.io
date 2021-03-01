@@ -23,8 +23,10 @@ The GNAF Locator for ArcGIS Pro & Enterprise is available in both Licensed and O
 ### Open Edition
 * GNAF Data Source: February 2020
 * Community support
-* Open Geo-coded National Address File (G-NAF) End User Licence Agreement<br/>
-The Open Edition can be downloaded from our [GitHub site](https://github.com/mosaicgeospatial/gnaf-locator-for-arcgis){:target="_blank" rel="noopener"}.
+* Open Geo-coded National Address File (G-NAF) End User Licence Agreement
+
+## Download
+Open Edition downloads are available from our [GitHub site](https://github.com/mosaicgeospatial/gnaf-locator-for-arcgis){:target="_blank" rel="noopener"}.
 
 ## Installation & Usage in ArcGIS Pro
 The following ESRI documentation describes how to install and use the GNAF Locator in ArcGIS Pro.

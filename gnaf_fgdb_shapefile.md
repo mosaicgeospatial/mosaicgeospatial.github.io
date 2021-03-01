@@ -4,12 +4,12 @@ title: GNAF File Geodatabase and Shapefiles
 nav-short: true
 ---
 ## Product Information
-GNAF is Australia’s authoritative, geocoded address dataset, containing over 15 million addresses. It is a large dataset with a complex architecture, requiring processing before being ready to use. This product supplies GNAF in common industry formats such as File Geodatabases and Shapefiles, reducing the need for end users to process the data themselves.<br/>
+GNAF is Australia’s authoritative, geocoded address dataset, containing over 15 million addresses. It is a large dataset with a complex architecture, requiring processing before being ready to use. This product supplies GNAF in common industry formats such as File Geodatabases and Shapefiles, reducing the need for end users to process the data themselves.
+
 The product is available in three different formats:
 * Full GNAF File Geodatabase - This is a duplicate of the GNAF dataset supplied as a File Geodatabase. It keeps the normalised structure of GNAF and requires users to create table joins to link required information. Suitable for advanced users with a knowledge of the GNAF architecture.
 * Simple GNAF File Geodatabase - Simplified, consolidated feature classes supplied as a File Geodatabase. The main parts of the GNAF dataset have been combined into easy, ready to use feature classes. All states have been merged together and attributes reformatted and joined. Suitable for everyone who wants to get up and running with GNAF quickly.
 * Simple GNAF Shapefiles - Simplified GNAF data as above, but supplied as Shapefiles.
-Downloads are available from our [GitHub site](https://github.com/mosaicgeospatial/gnaf-file-geodatabase-shapefile){:target="_blank" rel="noopener"}.
 
 ## Key Details
 * GNAF Data Source: February 2021
@@ -20,6 +20,9 @@ Downloads are available from our [GitHub site](https://github.com/mosaicgeospati
 * File Geodatabases have been compressed to save storage space and reduce download time. In order to directly edit the file geodatabase it must first be uncompressed using the Uncompress File Geodatabase Data tool.
 * GNAF fields that were not populated have not been included.
 * The file geodatabase structure and field definitions have been supplied in readable XML documents using the Export XML Workspace Document tool.
+
+## Download
+Downloads are available from our [GitHub site](https://github.com/mosaicgeospatial/gnaf-file-geodatabase-shapefile){:target="_blank" rel="noopener"}.
 
 ## Related Products and Datasets
 The [GNAF Locator for ArcGIS Pro and Enterprise](https://www.mosaicgeospatial.com/gnaf_locator) which converts addresses to map locations via geocoding has been created from GNAF. It can be used to interactively search for, and zoom to, addresses on a map or to batch geocode an entire table of addresses with latitude and longitude coordinates.
