@@ -2,6 +2,7 @@
 layout: page
 title: GNAF File Geodatabase and Shapefiles
 nav-short: true
+last_modified_at: 2021-03-01T08:00:00+10:00
 ---
 ## Product Information
 GNAF is Australia’s authoritative, geocoded address dataset, containing over 15 million addresses. It is a large dataset with a complex architecture, requiring processing before being ready to use. This product supplies GNAF in common industry formats such as File Geodatabases and Shapefiles, reducing the need for end users to process the data themselves.
