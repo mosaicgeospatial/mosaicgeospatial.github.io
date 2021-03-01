@@ -15,9 +15,9 @@ author: Mosaic Geospatial
 
 navbar-links:
   Home: "/"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Products:
+    - GNAF File Geodatabase and Shapefiles: "gnaf_fgdb_shapefile"
+    - GNAF Locator for ArcGIS Pro & Enterprise: "gnaf_locator"
   News: "news"
 
 # --- Logo --- #
