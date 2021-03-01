@@ -2,6 +2,7 @@
 layout: page
 title: GNAF Locator for ArcGIS Pro & Enterprise
 nav-short: true
+last_modified_at: 2021-03-01T08:00:00+10:00
 ---
 ## Product Information
 The GNAF Locator for ArcGIS Pro & Enterprise is a native ArcGIS locator that converts addresses to map locations via geocoding. It can be used to interactively search for, and zoom to, addresses on a map or to batch geocode an entire table of addresses with latitude and longitude coordinates. The GNAF Locator provides unlimited geocoding of addresses at no extra charge, as compared to the ArcGIS World Geocoding Service which charges 40 credits per 1000 addresses.

@@ -2,6 +2,7 @@
 layout: page
 title: Products
 nav-short: true
+last_modified_at: 2021-03-01T08:00:00+10:00
 ---
 ## [GNAF File Geodatabase and Shapefiles](/gnaf_fgdb_shapefile)
 Provides the source GNAF address dataset in File Geodatabase and Shapefile formats, including simplified consolidated feature classes for immediate use.
