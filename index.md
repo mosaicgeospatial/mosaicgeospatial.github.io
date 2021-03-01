@@ -6,7 +6,12 @@ nav-short: true
 Welcome to Mosaic Geospatial. We provide spatial datasets and tools to GIS users.
 
 ## [Our Products](/products)
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## Latest News
 
 ### GNAF February 2021 Release
