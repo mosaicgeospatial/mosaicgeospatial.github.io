@@ -5,7 +5,7 @@ nav-short: true
 ---
 Welcome to Mosaic Geospatial. We provide spatial datasets and tools to GIS users.
 
-### [Our Products](/products)
+## [Our Products](/products)
 
 ## Latest News
 
