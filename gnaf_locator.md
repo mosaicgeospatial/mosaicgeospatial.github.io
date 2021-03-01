@@ -14,7 +14,6 @@ The GNAF Locator for ArcGIS Pro & Enterprise is a native ArcGIS locator that con
 
 ## Editions
 The GNAF Locator for ArcGIS Pro & Enterprise is available in both Licensed and Open editions.
-
 ### Licensed Edition
 * GNAF Data Source: February 2021
 * Free quarterly updates by subscription
@@ -25,27 +24,25 @@ The GNAF Locator for ArcGIS Pro & Enterprise is available in both Licensed and O
 * GNAF Data Source: February 2020
 * Community support
 * Open Geo-coded National Address File (G-NAF) End User Licence Agreement<br/>
-
-The Open Edition can be downloaded from our [GitHub site](https://github.com/mosaicgeospatial/gnaf-locator-for-arcgis){:target="_blank" rel="noopener").
+The Open Edition can be downloaded from our [GitHub site](https://github.com/mosaicgeospatial/gnaf-locator-for-arcgis){:target="_blank" rel="noopener"}.
 
 ## Installation & Usage in ArcGIS Pro
 The following ESRI documentation describes how to install and use the GNAF Locator in ArcGIS Pro.
-* [Add Locators to a Project](https://pro.arcgis.com/en/pro-app/latest/help/data/geocoding/add-locators-to-aproject.htm)
-* [Tutorial - Find Addresses](https://pro.arcgis.com/en/pro-app/latest/help/data/geocoding/tutorial-find-addresses.htm)
-* [Tutorial - Geocode a Table of Addresses](https://pro.arcgis.com/en/pro-app/latest/help/data/geocoding/tutorial-geocode-a-table-ofaddresses.htm)
+* [Add Locators to a Project](https://pro.arcgis.com/en/pro-app/latest/help/data/geocoding/add-locators-to-aproject.htm){:target="_blank" rel="noopener"}
+* [Tutorial - Find Addresses](https://pro.arcgis.com/en/pro-app/latest/help/data/geocoding/tutorial-find-addresses.htm){:target="_blank" rel="noopener"}
+* [Tutorial - Geocode a Table of Addresses](https://pro.arcgis.com/en/pro-app/latest/help/data/geocoding/tutorial-geocode-a-table-ofaddresses.htm){:target="_blank" rel="noopener"}
 
 ## Installation and Usage in ArcGIS Enterprise
-The following ESRI documentation describes how to install and use the GNAF Locator in ArcGIS
-Enterprise.
-* [ArcGIS Pro: Share a Locator](https://pro.arcgis.com/en/pro-app/latest/help/data/geocoding/share-a-locator.htm)
-* [ArcGIS Portal: Configure the Portal to Geocode Addresses](https://enterprise.arcgis.com/en/portal/latest/administer/windows/configure-portal-togeocode-addresses.htm)
-* [ArcGIS Portal: Geocode Locations from Table](https://enterprise.arcgis.com/en/portal/latest/use/geocode-locations-from-table.htm)
+The following ESRI documentation describes how to install and use the GNAF Locator in ArcGIS Enterprise.
+* [ArcGIS Pro: Share a Locator](https://pro.arcgis.com/en/pro-app/latest/help/data/geocoding/share-a-locator.htm){:target="_blank" rel="noopener"}
+* [ArcGIS Portal: Configure the Portal to Geocode Addresses](https://enterprise.arcgis.com/en/portal/latest/administer/windows/configure-portal-togeocode-addresses.htm){:target="_blank" rel="noopener"}
+* [ArcGIS Portal: Geocode Locations from Table](https://enterprise.arcgis.com/en/portal/latest/use/geocode-locations-from-table.htm){:target="_blank" rel="noopener"}
 
 ## Related Products and Datasets
 The [GNAF File Geodatabase and Shapefiles](https://www.mosaicgeospatial.com/gnaf_fgdb_shapefile) product makes the source GNAF address dataset available in File Geodatabase and Shapefile formats, including simplified consolidated feature classes for immediate use.
 
 ## Attribution
-Incorporates or developed using G-NAF © Geoscape Australia licensed by the Commonwealth of Australia under the Open Geo-coded National Address File (G-NAF) End User Licence Agreement. The Geoscape Geocoded National Address File (G-NAF) dataset can be downloaded from: [https://data.gov.au/data/dataset/19432f89-dc3a-4ef3-b943-5326ef1dbecc](https://data.gov.au/data/dataset/19432f89-dc3a-4ef3-b943-5326ef1dbecc)
+Incorporates or developed using G-NAF © Geoscape Australia licensed by the Commonwealth of Australia under the Open Geo-coded National Address File (G-NAF) End User Licence Agreement. The Geoscape Geocoded National Address File (G-NAF) dataset can be downloaded from: [https://data.gov.au/data/dataset/19432f89-dc3a-4ef3-b943-5326ef1dbecc](https://data.gov.au/data/dataset/19432f89-dc3a-4ef3-b943-5326ef1dbecc){:target="_blank" rel="noopener"}
 
 ## Copyright and Licensing
 ### Licensed Edition

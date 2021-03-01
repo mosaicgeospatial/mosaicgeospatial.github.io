@@ -5,12 +5,10 @@ nav-short: true
 ---
 ## Product Information
 GNAF is Australia’s authoritative, geocoded address dataset, containing over 15 million addresses. It is a large dataset with a complex architecture, requiring processing before being ready to use. This product supplies GNAF in common industry formats such as File Geodatabases and Shapefiles, reducing the need for end users to process the data themselves.<br/>
-<br/>
-The product is available in three different formats:<br/>
+The product is available in three different formats:
 * Full GNAF File Geodatabase - This is a duplicate of the GNAF dataset supplied as a File Geodatabase. It keeps the normalised structure of GNAF and requires users to create table joins to link required information. Suitable for advanced users with a knowledge of the GNAF architecture.
 * Simple GNAF File Geodatabase - Simplified, consolidated feature classes supplied as a File Geodatabase. The main parts of the GNAF dataset have been combined into easy, ready to use feature classes. All states have been merged together and attributes reformatted and joined. Suitable for everyone who wants to get up and running with GNAF quickly.
-* Simple GNAF Shapefiles - Simplified GNAF data as above, but supplied as Shapefiles.<br/>
-<br/>
+* Simple GNAF Shapefiles - Simplified GNAF data as above, but supplied as Shapefiles.
 Downloads are available from our [GitHub site](https://github.com/mosaicgeospatial/gnaf-file-geodatabase-shapefile){:target="_blank" rel="noopener"}.
 
 ## Key Details
@@ -28,10 +26,10 @@ The [GNAF Locator for ArcGIS Pro and Enterprise](https://www.mosaicgeospatial.co
 
 ## Support
 Community support for the GNAF File Geodatabase and Shapefiles is provided at the GitHub site:<br/>
-[https://github.com/mosaicgeospatial/gnaf-file-geodatabase-shapefile](https://github.com/mosaicgeospatial/gnaf-file-geodatabase-shapefile)
+[https://github.com/mosaicgeospatial/gnaf-file-geodatabase-shapefile](https://github.com/mosaicgeospatial/gnaf-file-geodatabase-shapefile){:target="_blank" rel="noopener"}
 
 ## Attribution
-Incorporates or developed using G-NAF © Geoscape Australia licensed by the Commonwealth of Australia under the Open Geo-coded National Address File (G-NAF) End User Licence Agreement. The Geoscape Geocoded National Address File (G-NAF) dataset can be downloaded from: [https://data.gov.au/data/dataset/19432f89-dc3a-4ef3-b943-5326ef1dbecc](https://data.gov.au/data/dataset/19432f89-dc3a-4ef3-b943-5326ef1dbecc)
+Incorporates or developed using G-NAF © Geoscape Australia licensed by the Commonwealth of Australia under the Open Geo-coded National Address File (G-NAF) End User Licence Agreement. The Geoscape Geocoded National Address File (G-NAF) dataset can be downloaded from: [https://data.gov.au/data/dataset/19432f89-dc3a-4ef3-b943-5326ef1dbecc](https://data.gov.au/data/dataset/19432f89-dc3a-4ef3-b943-5326ef1dbecc){:target="_blank" rel="noopener"}
 
 ## Copyright and Licensing
 This product is Copyright © 2021, Mosaic Geospatial.<br/>
