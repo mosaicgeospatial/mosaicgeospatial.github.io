@@ -25,7 +25,7 @@ The product is available in three different formats:
 Downloads are available from our [GitHub site](https://github.com/mosaicgeospatial/gnaf-file-geodatabase-shapefile){:target="_blank" rel="noopener"}.
 
 ## Related Products and Datasets
-The [GNAF Locator for ArcGIS Pro and Enterprise](gnaf_locator) which converts addresses to map locations via geocoding has been created from GNAF. It can be used to interactively search for, and zoom to, addresses on a map or to batch geocode an entire table of addresses with latitude and longitude coordinates.
+The [GNAF Locator for ArcGIS Pro and Enterprise](/gnaf_locator) which converts addresses to map locations via geocoding has been created from GNAF. It can be used to interactively search for, and zoom to, addresses on a map or to batch geocode an entire table of addresses with latitude and longitude coordinates.
 
 ## Support
 Community support for the GNAF File Geodatabase and Shapefiles is provided at the GitHub site:<br/>

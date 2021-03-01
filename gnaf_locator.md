@@ -41,7 +41,7 @@ The following ESRI documentation describes how to install and use the GNAF Locat
 * [ArcGIS Portal: Geocode Locations from Table](https://enterprise.arcgis.com/en/portal/latest/use/geocode-locations-from-table.htm){:target="_blank" rel="noopener"}
 
 ## Related Products and Datasets
-The [GNAF File Geodatabase and Shapefiles](gnaf_fgdb_shapefile) product makes the source GNAF address dataset available in File Geodatabase and Shapefile formats, including simplified consolidated feature classes for immediate use.
+The [GNAF File Geodatabase and Shapefiles](/gnaf_fgdb_shapefile) product makes the source GNAF address dataset available in File Geodatabase and Shapefile formats, including simplified consolidated feature classes for immediate use.
 
 ## Attribution
 Incorporates or developed using G-NAF © Geoscape Australia licensed by the Commonwealth of Australia under the Open Geo-coded National Address File (G-NAF) End User Licence Agreement. The Geoscape Geocoded National Address File (G-NAF) dataset can be downloaded from: [https://data.gov.au/data/dataset/19432f89-dc3a-4ef3-b943-5326ef1dbecc](https://data.gov.au/data/dataset/19432f89-dc3a-4ef3-b943-5326ef1dbecc){:target="_blank" rel="noopener"}
