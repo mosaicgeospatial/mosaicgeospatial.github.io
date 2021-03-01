@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GNAF February 2021 Release
-subtitle: GNAF February 2021 - Updated products now available
+subtitle: Updated GNAF products now available
 tags: [GNAF, Locator, ArcGIS]
 comments: false
 nav-short: true
